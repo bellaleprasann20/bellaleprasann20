@@ -6,17 +6,17 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-prasannbellale20%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannbellale20@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bellaleprasann2020%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellaleprasann2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasann-bellale)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannbellale)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bellaleprasann20)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prasannbellale&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/prasannbellale?style=flat-square&color=6D28D9&label=FOLLOWERS&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/prasannbellale?style=flat-square&color=4C1D95&label=TOTAL+STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=bellaleprasann20&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/bellaleprasann20?style=flat-square&color=6D28D9&label=FOLLOWERS&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/bellaleprasann20?style=flat-square&color=4C1D95&label=TOTAL+STARS&logo=github)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## ◈ About
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=prasannbellale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=6D28D9&text_color=C4B5FD&ring_color=7C3AED" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=bellaleprasann20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=6D28D9&text_color=C4B5FD&ring_color=7C3AED" />
 
 I am a **MERN Stack Developer** with a passion for building responsive, scalable, and production-quality web applications. I specialise in translating ideas into clean, maintainable code — from pixel-perfect interfaces to robust backend APIs.
 
@@ -90,7 +90,7 @@ Currently completing my **BCA at Guru Nanak First Grade College, Bidar (2022–2
 | **Performance** | Optimised image delivery via Cloudinary · lazy-loaded listing cards |
 | **Security** | JWT authentication · bcrypt password hashing · protected routes |
 | **Impact** | End-to-end marketplace experience with host and guest user flows |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/airbnb-clone) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/airbnb-clone) |
 
 Built to deepen understanding of full-stack architecture patterns — this project covers RESTful API design, session management, image asset pipelines, and responsive multi-page UI. Implements MVC separation on the backend and component-driven architecture on the frontend.
 
@@ -114,7 +114,7 @@ Built to deepen understanding of full-stack architecture patterns — this proje
 | **Performance** | Debounced search · virtualised list rendering for large stock datasets |
 | **Security** | Auth-gated dashboard routes · environment variable management |
 | **Impact** | Demonstrates complex data visualisation and financial UI patterns |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/zerodha-clone) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/zerodha-clone) |
 
 Focused on replicating the precision of financial dashboards — real-time chart animations, multi-panel portfolio views, and order flow interfaces. A strong demonstration of React state management and component composition at scale.
 
@@ -138,7 +138,7 @@ Focused on replicating the precision of financial dashboards — real-time chart
 | **Performance** | Sub-100ms message delivery · optimistic UI updates |
 | **Security** | JWT-based auth · user session management · sanitised message input |
 | **Impact** | Demonstrates full-duplex real-time communication architecture |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/chat-app) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/chat-app) |
 
 This project introduced WebSocket architecture into a MERN context — handling socket lifecycle events, room management, and persistent message storage. Includes a responsive mobile-first chat UI with typing indicators and online status tracking.
 
@@ -162,7 +162,7 @@ This project introduced WebSocket architecture into a MERN context — handling 
 | **Performance** | Paginated feed · image CDN delivery · efficient MongoDB aggregation |
 | **Security** | JWT auth · role-based access · email verification flow |
 | **Impact** | Full social network architecture with connections, posts, and reactions |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/linkedin-clone) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/linkedin-clone) |
 
 The most architecturally complex of the clone projects — implementing a social graph (connections, followers), a personalised feed, and a notification system required careful schema design and efficient query patterns in MongoDB. Production-ready UI fidelity with full mobile responsiveness.
 
@@ -186,7 +186,7 @@ The most architecturally complex of the clone projects — implementing a social
 | **Performance** | Client-side routing · lazy component loading · efficient API calls |
 | **Security** | GitHub OAuth 2.0 · token management · protected API routes |
 | **Impact** | Demonstrates OAuth integration and developer-facing UI design patterns |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/github-clone) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/github-clone) |
 
 Integrating GitHub OAuth added a meaningful layer of real-world authentication complexity. The project explores developer-facing UX — clear information hierarchy, code-centric layouts, and the kind of dense, data-rich interfaces that engineers use daily.
 
@@ -210,7 +210,7 @@ Integrating GitHub OAuth added a meaningful layer of real-world authentication c
 | **Performance** | Peer-to-peer media delivery · adaptive stream quality |
 | **Security** | Unique room IDs · participant access control |
 | **Impact** | Demonstrates WebRTC signalling, peer connection, and media stream management |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/zoom-clone) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/zoom-clone) |
 
 WebRTC is one of the most technically demanding browser APIs — this project covers the full signalling flow (offer/answer/ICE candidate exchange), peer connection lifecycle, and media track management, all orchestrated through a Socket.io signalling server.
 
@@ -234,7 +234,7 @@ WebRTC is one of the most technically demanding browser APIs — this project co
 | **Performance** | Optimised image loading · cart state persistence · fast search |
 | **Security** | Auth-protected orders · payment gateway integration · input validation |
 | **Impact** | Complete e-commerce flow from browse to checkout to order confirmation |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannbellale/food-hub) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/bellaleprasann20/food-hub) |
 
 Food Hub consolidates several challenging frontend patterns — dynamic cart state, multi-step checkout, real-time order status, and complex filtering UX — into a cohesive product experience. Payment gateway integration adds a practical dimension of production readiness.
 
@@ -262,15 +262,15 @@ Pursuing a comprehensive foundation in computer science — covering data struct
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prasannbellale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bellaleprasann20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannbellale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellaleprasann20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=prasannbellale&theme=tokyonight&hide_border=true&background=0D0D1A&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9" />
+<img width="70%" src="https://streak-stats.demolab.com?user=bellaleprasann20&theme=tokyonight&hide_border=true&background=0D0D1A&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9" />
 
 </div>
 
@@ -280,7 +280,7 @@ Pursuing a comprehensive foundation in computer science — covering data struct
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prasannbellale&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bellaleprasann20&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -290,7 +290,7 @@ Pursuing a comprehensive foundation in computer science — covering data struct
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannbellale&theme=tokyo-night&hide_border=true&bg_color=0D0D1A&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bellaleprasann20&theme=tokyo-night&hide_border=true&bg_color=0D0D1A&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -301,9 +301,9 @@ Pursuing a comprehensive foundation in computer science — covering data struct
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasannbellale/prasannbellale/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasannbellale/prasannbellale/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/prasannbellale/prasannbellale/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bellaleprasann20/bellaleprasann20/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bellaleprasann20/bellaleprasann20/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/bellaleprasann20/bellaleprasann20/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -342,9 +342,9 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-prasannbellale20%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannbellale20@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-bellaleprasann2020%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bellaleprasann2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prasann--bellale-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasann-bellale)
-[![GitHub](https://img.shields.io/badge/GitHub-prasannbellale-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasannbellale)
+[![GitHub](https://img.shields.io/badge/GitHub-bellaleprasann20-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bellaleprasann20)
 
 </div>
 
